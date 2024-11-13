@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+
+.row-form{
+    display: flex;
+    flex-direction: column;  /* Aligne les éléments en colonne */
+    height: 300px;
+}
+form{
+    margin:auto;
+    border-radius: 10px;
+   
+    padding:20px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
